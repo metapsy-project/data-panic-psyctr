@@ -1,7 +1,7 @@
 ## **The `data-panic-psyctr` dataset** 📊 
 
 
-[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.7254845-blue">](https://dx.doi.org/10.5281/zenodo.7254845)
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.7863722-blue">](https://dx.doi.org/10.5281/zenodo.7863722)
 
 The `data-panic-psyctr` dataset is part of the meta-analytic research domain ([MARD](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf)) on psychotherapy for panic disorder. This MARD is part of the [Metapsy project](https://www.metapsy.org/). The dataset contains study information and effect size data of trials on psychotherapy for panic disorder in adults. The date of the last search update is provided [here](https://github.com/metapsy-project/data-panic-psyctr/blob/master/metadata/last_search.txt). 
 
